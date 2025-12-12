@@ -1,0 +1,26 @@
+[
+  {
+    "id": "diversification",
+    "title": "Portfolio Diversification: Don't Put All Eggs in One Basket",
+    "category": "portfolio",
+    "content": "Diversification is a strategy to reduce risk by spreading investments across different assets.\n\nWhy Diversify:\n- Reduces concentration risk\n- Smooths returns over time\n- Protects against company/sector downturns\n- Helps achieve financial goals\n\nDiversification Methods:\n1. Asset Class Diversification:\n   - Stocks, bonds, cash, real estate\n   \n2. Sector Diversification:\n   - Technology, Healthcare, Finance, Energy, Consumer, etc.\n   \n3. Geographic Diversification:\n   - Domestic and international investments\n   \n4. Size Diversification:\n   - Large-cap, mid-cap, small-cap companies\n\nDiversification Strategies:\n- Index Funds: Own many companies at once\n- ETFs: Low-cost, diversified portfolios\n- Asset Allocation: Balance stocks/bonds by age\n- Rebalancing: Maintain target allocation\n\nCommon Mistakes:\n\u2717 Diversifying too much (over-diversification)\n\u2717 Not rebalancing regularly\n\u2717 Trying to time the market\n\u2717 Following fads or tips",
+    "source": "Portfolio Management Guide",
+    "tags": [
+      "diversification",
+      "portfolio",
+      "risk-management"
+    ]
+  },
+  {
+    "id": "asset_allocation",
+    "title": "Asset Allocation by Age and Risk Tolerance",
+    "category": "portfolio",
+    "content": "Asset allocation is how you divide investments among stocks, bonds, and cash based on your situation.\n\nAge-Based Guidelines:\nAge 20-30: 80-90% stocks, 10-20% bonds (high growth tolerance)\nAge 30-40: 70-80% stocks, 20-30% bonds\nAge 40-50: 60-70% stocks, 30-40% bonds\nAge 50-60: 50-60% stocks, 40-50% bonds\nAge 60+: 40-50% stocks, 50-60% bonds (income focus)\n\nRisk Tolerance Considerations:\nConservative: 30-40% stocks, 60-70% bonds\nModerate: 50-60% stocks, 40-50% bonds\nAggressive: 80-90% stocks, 10-20% bonds\n\nFactors Affecting Allocation:\n- Time horizon\n- Risk tolerance\n- Income needs\n- Health and longevity\n- Major expenses (home, education)\n- Income stability\n- Existing assets\n\nRebalancing:\n- Review allocation annually\n- Rebalance when allocation drifts 5-10%\n- Sell winners, buy underperformers\n- Tax-efficient rebalancing",
+    "source": "Investment Strategy Guide",
+    "tags": [
+      "asset-allocation",
+      "portfolio",
+      "retirement"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "401k_ira_guide",
+    "title": "Tax-Advantaged Accounts: 401(k) and IRA",
+    "category": "tax",
+    "content": "Tax-advantaged accounts help you save for retirement with tax benefits.\n\n401(k) Plans:\n- Employer-sponsored retirement plan\n- 2024 contribution limit: $23,500 ($31,000 if 50+)\n- Pretax or Roth options\n- Employer may match contributions\n- Required distributions at 73\n\nTraditional IRA:\n- Individual retirement account\n- 2024 contribution limit: $7,000 ($8,000 if 50+)\n- Contributions may be tax-deductible\n- Growth is tax-deferred\n- Distributions taxed as income\n- Required distributions at 73\n\nRoth IRA:\n- Contributions not tax-deductible\n- Growth is tax-free\n- Qualified distributions are tax-free\n- No required distributions\n- Can withdraw contributions anytime\n- Income limits apply\n\nComparison:\n401(k): Employer plan, higher limits, forced distributions\nTraditional IRA: Individual, tax-deferred, income-limited deduction\nRoth IRA: Individual, tax-free growth, no forced distributions\n\nKey Advantages:\n\u2713 Tax savings now or later\n\u2713 Employer matching (401k)\n\u2713 Lower taxes on distributions\n\u2713 Long-term wealth building",
+    "source": "Tax Planning Guide",
+    "tags": [
+      "retirement",
+      "tax-advantaged",
+      "401k",
+      "ira"
+    ]
+  },
+  {
+    "id": "tax_loss_harvesting",
+    "title": "Tax-Loss Harvesting: Turn Losses into Savings",
+    "category": "tax",
+    "content": "Tax-loss harvesting is selling losing investments to offset capital gains and reduce taxes.\n\nHow Tax-Loss Harvesting Works:\n1. Identify losing positions\n2. Sell at a loss\n3. Use loss to offset capital gains\n4. Reduce your tax bill\n5. Reinvest proceeds\n\nCapital Gains Rules:\n- Long-term gains (held 1+ year): Lower tax rates\n- Short-term gains: Taxed as ordinary income\n- Losses offset gains dollar-for-dollar\n- Excess losses ($3,000) can offset ordinary income\n\nTax-Loss Harvesting Process:\nStep 1: Review portfolio for losses\nStep 2: Sell positions with realized losses\nStep 3: Calculate total losses\nStep 4: Offset capital gains\nStep 5: Reduce income by excess losses (up to $3,000)\nStep 6: Reinvest to maintain target allocation\n\nWash Sale Rules:\n- Can't buy same/similar security within 30 days\n- Before or after the sale\n- Violating rule disallows loss deduction\n- Solution: Buy slightly different security temporarily\n\nTax-Loss Harvesting Mistakes:\n\u2717 Not tracking basis (purchase price)\n\u2717 Forgetting wash-sale window\n\u2717 Harvesting in retirement accounts\n\u2717 Over-trading (generating short-term gains)\n\u2717 Not maintaining diversification\n\nBest Practices:\n\u2713 Document all trades carefully\n\u2713 Use tax-loss harvesting software\n\u2713 Harvest quarterly or year-end\n\u2713 Maintain target allocation\n\u2713 Consider holding periods carefully",
+    "source": "Tax Strategy Guide",
+    "tags": [
+      "taxes",
+      "tax-loss-harvesting",
+      "capital-gains"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "dollar_cost_averaging",
+    "title": "Dollar-Cost Averaging: Invest Regularly",
+    "category": "investing-strategies",
+    "content": "Dollar-cost averaging (DCA) means investing a fixed amount regularly regardless of market conditions.\n\nHow It Works:\n- Invest same amount every month/quarter\n- Buy more shares when prices are low\n- Buy fewer shares when prices are high\n- Reduces impact of market timing\n- Removes emotion from investing\n\nBenefits:\n\u2713 Reduces timing risk\n\u2713 Builds discipline\n\u2713 Lower average cost per share\n\u2713 Works with any budget\n\u2713 Simple to implement\n\nExample:\nMarket Down: Invest $500, buy more shares\nMarket Up: Invest $500, buy fewer shares\nResult: Lower average cost than lump sum\n\nWhen to Use DCA:\n- Regular investment from paychecks\n- Contributing to retirement accounts\n- Building wealth over time\n- Uncertain market conditions\n\nDCA vs. Lump Sum:\nDCA: Safer, steadier approach\nLump Sum: May perform better in rising markets\nBest: DCA for most investors",
+    "source": "Investment Strategies",
+    "tags": [
+      "investing",
+      "strategy",
+      "discipline"
+    ]
+  }
+]

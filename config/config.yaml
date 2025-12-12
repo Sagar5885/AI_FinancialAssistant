@@ -1,0 +1,48 @@
+app:
+  name: AI Finance Assistant
+  version: 1.0.0
+  debug: false
+
+llm:
+  provider: "gemini"  # Options: gemini, openai, claude
+  model: "gemini-1.5-flash"
+  temperature: 0.7
+  max_tokens: 2000
+  api_key: ${GOOGLE_API_KEY}
+
+market_data:
+  provider: "yfinance"  # Options: yfinance, alpha_vantage
+  yfinance:
+    cache_ttl: 3600  # seconds
+    timeout: 10
+  alpha_vantage:
+    api_key: ${ALPHA_VANTAGE_API_KEY}
+    cache_ttl: 3600
+
+vector_db:
+  provider: "faiss"  # Options: faiss, chroma
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  similarity_threshold: 0.7
+  top_k_results: 5
+
+agents:
+  timeout: 30
+  max_retries: 3
+
+workflow:
+  max_steps: 10
+  memory_type: "conversation"  # conversation, persistent
+
+rag:
+  chunk_size: 1000
+  overlap: 200
+  retrieval_method: "similarity"
+
+ui:
+  port: 8501
+  theme: "light"
+
+logging:
+  level: "INFO"
+  format: "json"
+  file: "logs/app.log"

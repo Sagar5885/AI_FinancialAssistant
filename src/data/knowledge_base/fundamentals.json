@@ -1,0 +1,38 @@
+[
+  {
+    "id": "stocks_101",
+    "title": "Understanding Stocks: A Beginner's Guide",
+    "category": "fundamentals",
+    "content": "Stocks represent ownership shares in a company. When you buy stock, you become a partial owner.\n\nKey Concepts:\n- Share Price: The current market price of one share\n- Market Cap: Total value of all shares (Share Price \u00d7 Shares Outstanding)\n- Dividend: Regular payments to shareholders\n- Trading: Buying and selling through stock exchanges\n\nBenefits of Investing in Stocks:\n- Potential for long-term growth\n- Dividend income\n- Low cost of entry\n- Easy to buy and sell\n\nRisks:\n- Price volatility\n- Company-specific risks\n- Market downturns\n- No guaranteed returns\n\nBeginner Tips:\n- Start with index funds for diversification\n- Don't try to time the market\n- Invest for the long term\n- Dollar-cost average (invest regularly)",
+    "source": "Financial Education Guide",
+    "tags": [
+      "stocks",
+      "investing",
+      "beginner"
+    ]
+  },
+  {
+    "id": "bonds_explained",
+    "title": "Bonds: Fixed Income Investing",
+    "category": "fundamentals",
+    "content": "Bonds are loans you make to companies or governments that pay interest.\n\nHow Bonds Work:\n- You lend money to a borrower (issuer)\n- Issuer pays fixed interest (coupon) over time\n- You get principal back at maturity\n- Bonds are less volatile than stocks\n\nTypes of Bonds:\n- Government Bonds: Issued by governments\n- Corporate Bonds: Issued by companies\n- Municipal Bonds: Issued by local governments\n- Treasury Securities: U.S. government backed\n\nBond Basics:\n- Yield: Annual interest rate\n- Duration: Sensitivity to interest rates\n- Credit Rating: Risk of default\n- Par Value: Face value of bond\n\nPros and Cons:\n\u2713 More stable than stocks\n\u2713 Regular income\n\u2717 Lower growth potential\n\u2717 Inflation risk\n\u2717 Interest rate risk",
+    "source": "Financial Education Guide",
+    "tags": [
+      "bonds",
+      "fixed-income",
+      "investing"
+    ]
+  },
+  {
+    "id": "compound_interest",
+    "title": "The Power of Compound Interest: Time Your Greatest Asset",
+    "category": "fundamentals",
+    "content": "Compound interest is interest earned on interest, creating exponential wealth growth over time.\n\nHow Compound Interest Works:\nYear 1: $1,000 invested at 7% = $70 interest\nYear 2: $1,070 at 7% = $74.90 interest (earning interest on interest!)\nYear 3: $1,144.90 at 7% = $80.14 interest\nResult: Money grows faster over time\n\nTime Impact (Starting with $10,000 at 7%):\n10 years: $19,672\n20 years: $38,697\n30 years: $76,123\n40 years: $149,745\n50 years: $294,204\n\nKey Factors:\n1. Principal: Starting amount\n2. Interest Rate: Annual return\n3. Time: Years until withdrawal\n4. Frequency: How often interest compounds\n\nMaximizing Compound Interest:\n\u2713 Start early (even small amounts compound)\n\u2713 Add regularly (dollar-cost averaging)\n\u2713 Minimize taxes (retirement accounts)\n\u2713 Keep costs low (low-fee funds)\n\u2713 Don't withdraw early\n\u2713 Be patient\n\nStarting Early Example:\nAt 25: Invest $5,000/year until 65\nAt 35: Invest $5,000/year until 65\nDifference: $300,000+ more by age 65!\n\nKey Takeaway:\nTime is your most valuable asset. Start investing early, even with small amounts.",
+    "source": "Wealth Building Guide",
+    "tags": [
+      "compound-interest",
+      "investing",
+      "time-value"
+    ]
+  }
+]
