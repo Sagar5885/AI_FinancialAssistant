@@ -19,7 +19,7 @@
 
 ### AIFinAssistant
 1. **`.env`**
-   - Before: `GOOGLE_API_KEY=AIzaSyB2C3EKhLCaQS3MHCGnYtylwE1gFEOkRxw`
+   - Before: `GOOGLE_API_KEY=####`
    - After: `GOOGLE_API_KEY=your_google_api_key_here`
 
 2. **`docs/FIXES_APPLIED.md`**
